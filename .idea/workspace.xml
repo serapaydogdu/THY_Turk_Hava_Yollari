@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c337ae10-d29c-430e-adc0-c024bcea4e4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gKKEwEmmq4OcwpHARp4T4rv5d0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c337ae10-d29c-430e-adc0-c024bcea4e4f" name="Default Changelist" comment="" />
+      <created>1597857737367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597857737367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597879904241">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1597879904241" />
+    <state x="510" y="96" key="FileChooserDialogImpl" timestamp="1597908070648">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="510" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1597908070648" />
+    <state x="480" y="304" key="Github.ShareDialog" timestamp="1597907701203">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="480" y="304" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1597907701203" />
+    <state width="924" height="160" key="GridCell.Tab.0.bottom" timestamp="1597858096387">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="924" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597858096387" />
+    <state width="924" height="160" key="GridCell.Tab.0.center" timestamp="1597858096387">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="924" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597858096387" />
+    <state width="924" height="160" key="GridCell.Tab.0.left" timestamp="1597858096387">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="924" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597858096387" />
+    <state width="924" height="160" key="GridCell.Tab.0.right" timestamp="1597858096387">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="924" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597858096387" />
+    <state x="193" y="0" key="SettingsEditor" timestamp="1597880372499">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="193" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597880372499" />
+    <state x="180" y="2" key="new project wizard" timestamp="1597908116442">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="180" y="2" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1597908116442" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1597880354220">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1597880354220" />
+  </component>
+</project>

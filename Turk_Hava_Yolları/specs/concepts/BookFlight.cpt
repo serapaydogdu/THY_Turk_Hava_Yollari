@@ -1,0 +1,7 @@
+Created by TESTINIUM on 19.08.2020
+
+This is a concept file with following syntax for each concept.
+# Choose Flight
+
+* "com.turkishairlines.mobile:id/acMain_btnBooking" ID li  elementi bul ve tıkla
+* "com.turkishairlines.mobile:id/frDashboard_tvOneWay" ID li  elementi bul ve tıkla
